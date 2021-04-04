@@ -11,7 +11,7 @@ I’m Chaitanyananda **Buruganahalli Sreedhar**, is it too long! Ofcourse it is!
  - My hobbies are - Nature photography, Gaming, Football, Literature
  
 ## 📫 How to reach me?
- - [Email](chaitanyanandabs@gmail.com)
-  - [LinkedIn](linkedin.com/in/chaiti)
-  - [Xing](xing.com/profile/Chaitanyananda_BS)
-  - [GitHub](github.com/chaiti93)
+ - [Email](https://chaitanyanandabs@gmail.com)
+  - [LinkedIn](https://linkedin.com/in/chaiti)
+  - [Xing](https://xing.com/profile/Chaitanyananda_BS)
+  - [GitHub](https://github.com/chaiti93)
