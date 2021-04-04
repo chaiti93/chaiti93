@@ -1,6 +1,6 @@
 ## 🌱 About me
 
-I’m Chaitanyananda **Buruganahalli Sreedhar**, is it too long! Ofcourse it is!! You can simply call me ***Chaiti***.
+I’m Chaitanyananda **Buruganahalli Sreedhar**, is it too long?! Ofcourse it is!! You can simply call me ***Chaiti***.
 
  - I am studying Masters degree and currently working @PlanBee-Project
  - I am interested in Data Science, Machine Learning, Deep Learning
