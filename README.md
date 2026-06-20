@@ -8,7 +8,7 @@ I'm Chaitanyananda Buruganahalli Sreedhar, is it too long?! Ofcourse it is!! You
 * Lately: LLM-powered summarization, RAG evaluation, live subtitling, GEO/AEO monitoring, and agentic tools
 * Skilled in Python, TensorFlow, Keras, Pandas, NumPy, Sci-Kit learn, GCP, AWS, SQL, NoSQL, Flask, FastAPI, Docker, REST, Streamlit, LangChain/LangGraph
 * I've developed an end-to-end DL-based mobile app with Image Classification & Object Detection models deployed on-device using TensorFlow & Flutter
-* My hobbies are - Nature photography, Gaming, Football, Literature
+* My hobbies are - Nature photography, Gaming, Reading books, Hiking
 
 ## 📫 How to reach me?
 
