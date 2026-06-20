@@ -1,6 +1,8 @@
 ## 🌱 About me
 I'm Chaitanyananda Buruganahalli Sreedhar, is it too long?! Ofcourse it is!! You can simply call me Chaiti.
 
+🌐 Website: https://chaitanyanandabs.com
+
 * I'm a **Senior Data Scientist** building GenAI-based apps, agentic solutions, and services — taking ideas from POC to production.
 * GenAI, Agentic AI, LLMs, RAG, Recommender Systems, DL & ML enthusiast
 * I like to create end-to-end AI applications that teams and people actually use
